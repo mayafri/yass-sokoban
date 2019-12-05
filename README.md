@@ -2,6 +2,8 @@
 
 Un petit jeu de Sokoban pour DOS, programmé en assembleur x86.
 
+- [Télécharger l'exécutable (fichier .COM)](https://github.com/hyakosm/yass-sokoban/raw/master/MAIN.COM)
+
 ![Illustration du jeu](https://hyakosm.net/images_portfolio/sokodos.jpg)
 
 ## Configuration minimale
