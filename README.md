@@ -1,8 +1,14 @@
 # Yass-Sokoban
 
-Un petit jeu de Sokoban pour DOS, compatible 286 et plus.
+Un petit jeu de Sokoban pour DOS, programmé en assembleur x86.
 
 ![Illustration du jeu](https://hyakosm.net/images_portfolio/sokodos.jpg)
+
+## Configuration minimale
+
+- Système MS-DOS ou compatible (PC-DOS, FreeDOS...)
+- Processeur Intel 286 ou supérieur
+- Carte graphique VGA ou MCGA (mode 13h - 256 couleurs en 320x200)
 
 ## Utilisation
 
